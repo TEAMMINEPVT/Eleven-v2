@@ -3,8 +3,8 @@ module.exports = {
     Token: "",
     Prefix: ".",
     Client: {
-        ID: "",
-        Secret: "",
+        ID: "1302563639882158091",
+        Secret: "uRgSkJThgAUT4In_5zoB31gtWMebwdv0",
     },
     button: {
         grey: ButtonStyle.Secondary,
@@ -14,20 +14,20 @@ module.exports = {
         green: ButtonStyle.Success,
     },
     spotify: {
-        ID: "",
-        Secret: "",
+        ID: "bf5ee2a72bae40ffadc71a47280e5ff9",
+        Secret: "053469ffeb3844079fab734ebf3090c2",
     },
     Api: {
-        Topgg: "",
+        Topgg: "https://topgg",
     },
-    MongoData: "",
-    EmbedColor: "",
-    Owners: [""],
+    MongoData: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+    EmbedColor: "#000000",
+    Owners: ["1193934430872547363"],
     Nodes: [
         {
-            name: "",
-            url: "",
-            auth: "",
+            name: "ChalresNaig Node",
+            url: "lavahatry4.techbyte.host",
+            auth: "NAIGLAVA-dash.techbyte.host",
             secure: false,
         },
         {
