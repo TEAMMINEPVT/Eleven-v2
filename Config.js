@@ -44,9 +44,9 @@ module.exports = {
         },
     ],
     hooks: {
-        guildAdd: "",
-        guildRemove: "",
-        Error: "",
+        guildAdd: "https://discord.com/api/webhooks/1335495484743094343/316DoJTFdNqYoOP0YTqQBy2E0oiSwh--u-jCWar0ugBX2ELeBxkAcGX_Ii5aCq_rqCBr",
+        guildRemove: "https://discord.com/api/webhooks/1335495484743094343/316DoJTFdNqYoOP0YTqQBy2E0oiSwh--u-jCWar0ugBX2ELeBxkAcGX_Ii5aCq_rqCBr",
+        Error: "https://discord.com/api/webhooks/1335495484743094343/316DoJTFdNqYoOP0YTqQBy2E0oiSwh--u-jCWar0ugBX2ELeBxkAcGX_Ii5aCq_rqCBr",
     },
     links: {
         invite: "",
